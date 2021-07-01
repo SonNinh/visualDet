@@ -1,0 +1,11 @@
+pillow
+scikit-image
+fire
+matplotlib
+opencv-python
+numba
+easydict
+cython
+tqdm
+future
+coloredlogs
